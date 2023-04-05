@@ -1,0 +1,28 @@
+﻿  AdminIMP.cpp
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\AdminIMP.cpp(39,6): warning C4101: 'New_stock': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\AdminIMP.cpp(166,13): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\AdminIMP.cpp(279,13): warning C4101: 'a': unreferenced local variable
+  CustomerIMP.cpp
+  MAIN.cpp
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(55,8): warning C4102: 'admin': unreferenced label
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(40,14): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(87,15): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(151,15): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(275,13): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\MAIN.cpp(343,13): warning C4101: 'a': unreferenced local variable
+  SKimp.cpp
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(116,17): warning C4101: 'c': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(127,16): warning C4101: 'b': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(135,13): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(158,13): warning C4101: 'd': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(173,13): warning C4101: 'd': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(362,13): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(414,13): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(482,13): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(553,17): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(574,18): warning C4101: 'a': unreferenced local variable
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(682,13): warning C4101: 'a': unreferenced local variable
+  Generating Code...
+C:\Users\computer house\source\repos\Inventary Management System\Inventary Management System\SKimp.cpp(330): warning C4715: 'Sign_In::checkData': not all control paths return a value
+  Inventary Management System.vcxproj -> C:\Users\computer house\source\repos\Inventary Management System\Debug\Inventary Management System.exe

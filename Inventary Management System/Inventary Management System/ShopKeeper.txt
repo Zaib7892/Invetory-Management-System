@@ -1,0 +1,33 @@
+=========================  
+Muhammad Aurang zaib
+0001
+zaib1234
+zaib@gmail.com
+zaib12
+3/6/2001
+male
+A+
+03106029192
+4,7,F,Chiniot,Punjab,Pakistan
+=========================  
+Amber Maria
+0002
+amber123
+ambermaria@gmail.com
+maria123
+3/3/2021
+female
+O-
+3415 678945465
+3,3,g,sargodha,punjab,pakistan
+=========================  
+q q
+0004
+q
+q
+q
+1/1/1
+a
+abc
+q
+-1,-1,abc,a,a,a
